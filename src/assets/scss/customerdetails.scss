@@ -1,0 +1,193 @@
+.ticket_details{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 33px;
+    color: #5051F9;
+}
+.ticket_code{
+    position: absolute;
+    left: 104px;
+    top: 136px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 29px;
+    color: #7A7A7B; 
+}
+
+.ticket-summery{
+    position: absolute;
+    top: -5px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color: #191515;
+    text-decoration: none;
+    padding-top: 7px;
+}
+
+.ticket_button{
+    position: absolute;
+    width: 156px;
+    height: 40px;
+    left: 1019px;
+    top: 106px;
+    background: #5051F9;
+    border-radius: 4px;
+}
+
+.customer_details{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 751px;
+    height: 95px;
+    left: 104px;
+    top: 207px;
+    background: #FFFFFF;
+    //border-radius: 40px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+}
+.customer_details_card{
+    font-size: 18px;
+    line-height: 23px;
+    color: #727272;
+    padding-left: 25px;
+    margin-right: 45px;
+}
+
+.customer_details_date{
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    padding-left: 25px;
+}
+.task_info{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 751px;
+    height: 95px;
+    left: 104px;
+    top: 367px;
+    background: #FFFFFF;
+    //border-radius: 40px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+}
+
+.task-info-text{
+    position: absolute;
+    left: 104px;
+    top: 306px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 29px;
+    color: #7A7A7B; 
+}
+
+.agent-admin{
+    position: absolute;
+    left: 104px;
+    top: 466px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 29px;
+    color: #7A7A7B; 
+}
+
+.agent-admin-info{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 751px;
+    height: 60px;
+    left: 104px;
+    top: 527px;
+    background: #FFFFFF;
+    //border-radius: 40px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+}
+.customer_chkbox{
+    width: 22px;
+    height: 22px;
+    font-size: 18px;
+    line-height: 23px;
+    color: #727272;
+    margin-left: 25px;
+    margin-top: 18px;
+}
+.agent_details{
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    padding-left: 8px;
+    //padding-bottom: 32px;
+}
+.agent-description{
+    position: absolute;
+    left: 104px;
+    top: 592px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 29px;
+    color: #7A7A7B; 
+}
+.agent-descriptionp{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+}
+.description_card{
+    position: absolute;
+    width: 751px;
+    height: 200px;
+    left: 104px;
+    top: 660px;
+    background: #FFFFFF;
+    border-radius: 14px;
+}
+.side-grid{
+    position: absolute;
+    width: 345px;
+    height: 655px;
+    right: 25px;
+    top: 207px;
+    bottom: 241px;
+    background: #FFFFFF;
+    border-radius: 14px;
+}
+
+.assign-bttn{
+//     display: flex;
+// flex-direction: row;
+//justify-content: center;
+//align-items: center;
+// padding: 9px 17px 9px 15px;
+// gap: 12px;
+
+position: absolute;
+width: 130px;
+height: 42px;
+left: 545px;
+top: 923px;
+}
+

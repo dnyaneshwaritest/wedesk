@@ -1,0 +1,45 @@
+.status-card{
+    position: relative;
+    width: 61px;
+    height: 5px;
+    background: #FFFFFF;
+    border-radius: 14px;
+    padding-left: 20px;
+    left: 1px;
+    top: 1px;
+    display: flex;
+    flex-grow: 1;
+}
+
+.status-title{
+    width: 450px;
+}
+.status-btn{
+    position:fixed;
+    width: 129px;
+    height: 34px;
+    margin-left: 2px;
+    border: 1px solid #5051F9;
+    border-radius: 4px;
+    color: #000000;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.status-btn1{
+    margin-left: 140px;
+    position:fixed;
+    width: 129px;
+    height: 34px;
+    padding-left: 10px;
+    color: #000000;
+}
+
+.status-dialog{
+    border-radius: 14px;
+    margin-left: -560px;
+    margin-top: 300px;
+}   

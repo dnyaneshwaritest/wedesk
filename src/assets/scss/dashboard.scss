@@ -1,0 +1,484 @@
+.maindashboard {
+    position: absolute;
+    left: 100px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    width: 255px;
+    height: 54px;
+    top: 76px;
+}
+
+.dashboard-Page{
+    width: 133px;
+    height: 10px;
+    font-size: 25px;
+    line-height: 33px;
+    color: #5051F9;
+    //margin-left: -57px;
+}
+
+.welcome-desk {
+    width: 255px;
+    height: 21px;
+    font-size: 14px;
+    line-height: 21px;
+    color: #333333;
+    opacity: 0.6;
+}
+
+.addbtn {
+    position: absolute;
+    height: 37px;
+    left: 1117px;
+    background-color: #5051F9;
+    border-radius: 6px;
+    position: absolute;
+    width: 108px;
+    left: 1117px;
+    top: 106px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    
+}
+
+.new {
+  left: 22px;
+  top: 1px;
+}
+
+.plussym {
+    position: absolute;
+    left: -37.72%;
+    top: -30.95%;
+    margin: 20px;
+    background: #5051F9;
+    color:#FFF ;
+}
+
+.gtotal-tck {
+    position: absolute;
+    width: 267px;
+    height: 115px;
+    left: 100px;
+    top: 180px;
+
+    background: #FFFFFF;
+    border-radius: 16px;
+}
+
+.g-tck {
+    position: absolute;
+    //left: 144.69px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    
+}
+
+.total-tck{
+    width: 103.01px;
+    height: 21px;
+    margin-top:12px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #545454;
+
+}
+
+.total-tck-num{
+    width: 43.37px;
+    height: 29px;
+    margin-top: -9px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 29px;
+    color: #333333;
+}
+
+.g-star{
+    position: absolute;
+    width: 36.87px;
+    height: 34px;
+    left: 200.71px;
+    top: 35px;
+
+    background: #F3F7FD;
+    border-radius: 20px;
+
+}
+
+.star{
+    left: 25.1%;
+    right: 73.63%;
+    top: 12.48%;
+    bottom: 86.61%;
+    padding: 5.5px;
+    font-size: small;
+    color: #5051F9;
+}
+
+.gtodays-tck {
+    position: absolute;
+    width: 267px;
+    height: 115px;
+    left: 393px;
+    top: 180px;
+    
+    background: #FFFFFF;
+    border-radius: 16px;
+}
+
+.gpending-tck {
+    position: absolute;
+    width: 267px;
+    height: 115px;
+    left: 685px;
+    top: 180px;
+
+    background: #FFFFFF;
+    border-radius: 16px;
+}
+
+.gtoatal-agnt{
+    position: absolute;
+    width: 267px;
+    height: 115px;
+    left: 980px;
+    top: 180px;
+
+    background: #FFFFFF;
+    border-radius: 16px;
+}
+
+.gtck-flow {
+    position: absolute;
+    width: 852px;
+    height: 390px;
+    left: 100px;
+    top: 315px;
+
+    background: #FFFFFF;
+    border-radius: 14px;
+}
+
+.line-chart{
+    position: absolute;
+    width: 802px;
+    height: 240px;
+    left: -10px;
+    top: 85px;
+}
+
+.tck-flow {
+    position: absolute;
+    width: 164px;
+    height: 26px;
+    left: 24px;
+    top:1px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #333333;
+}
+
+.drop-select {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 12px;
+    gap: 6px;
+    position: absolute;
+    width: 105px;
+    height: 32px;
+    left: 683px;
+    top: 25px;
+    border: 2px solid #F0F0F0;
+    border-radius: 10px;
+}
+ 
+.opt-sect {
+    width: 51px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #333333;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+hr{
+    position: absolute;
+    left: 4.76%;
+    right: -2.15%;
+    top: 95.66%;
+    bottom: 62.28%;
+    border: 0.1px solid #D6D9DC;
+}
+
+.gactive-agents {
+    position: absolute;
+    width: 270px;
+    height: 390px;
+    left: 979px;
+    top: 315px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.side-active-agent{
+    width: 144px;
+    height: 26px;
+    margin-left: 19px;
+    top: 335px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #333333;
+
+}
+.mark-agnt{
+    position: absolute;
+    width: 28px;
+    height: 22px;
+    left: 10px;
+    top: 69px;
+}
+
+.dmark{
+    position: absolute;
+    width: 180.96px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    color: #333333;
+
+}
+.mark{
+    height: 2px;
+    margin-left: 50.5px;
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+
+}
+
+.department{
+    height: 13px;
+    margin-left: 50.5px;
+    margin-top: -5px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+}
+
+.meena-agent{
+    position: absolute;
+    width: 28px;
+    height: 22px;
+    left: 10px;
+    margin-top: 2px;
+
+}
+
+.mmark{
+margin-top: 75px;
+}
+
+.mehr{
+    position: absolute;
+    width: 218px;
+    height: 0px;
+    left: 20px;
+    top: 106px;
+    border: 1px dashed #F0EEEE;
+}
+
+.view{
+    position: absolute;
+    width: 69px;
+    height: 23px;
+    left: 200px;
+    top: 318px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    text-decoration-line: underline;
+    color: #5051F9;
+}
+
+.gtck-report{
+    position: absolute;
+    width: 1148px;
+    height: 360px;
+    left: 100px;
+    top: 730px;
+    background: #FFFFFF;
+    border-radius: 14px;
+}
+
+.tck-report {
+    margin-top: 70px;
+}
+
+.month-report{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 12px;
+    gap: 6px;
+    position: absolute;
+    width: 105px;
+    height: 32px;
+    left: 1017px;
+    top: 25px;
+    border: 2px solid #F0F0F0;
+    border-radius: 10px;
+}
+
+.gcust-rate{
+    position: absolute;
+    height: 304px;
+    top: 1115px;
+    background: #FFFFFF;
+    border-radius: 14px;
+    left: 100px;
+    //width: 323px; 
+}
+
+.cls-tck-flow{
+   width: 300px; 
+    left: 100px; 
+}
+
+.cust-rateing{
+    width: 532px;
+    position: absolute;
+    height: 304px;
+    left: 328px;
+    background: #FFFFFF;
+    border-radius: 14px;
+}
+
+.aht-tckt{
+    width: 265px;
+    position: absolute;
+    height: 304px;
+    background: #FFFFFF;
+    border-radius: 14px;
+    left: 888px;
+    top: 2px;
+}
+
+.cls-flow {
+    position: absolute;
+    width: 177px;
+    height: 26px;
+    left: 24px;
+    top: -9px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: -0.07em;
+    color: #333333;
+}
+.drop-cls-tck {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 10px;
+    gap: 6px;
+    position: absolute;
+    width: 76px;
+    height: 34px;
+    left: 205px;
+    top: 11px;
+    border: 1px solid #F0F0F0;
+    border-radius: 10px;
+}
+.drop-list{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 120px;
+    height: 100px;
+    background: #FFFFFF;
+    
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #C4C4C4;
+    align-items: center;
+    margin-left: -10px;
+    border-radius: 4px;
+    z-index: 1;
+    
+       
+}
+
+.pop-btn{
+    background: transparent;
+    width: 130px;
+    border: none;
+    padding-left: 2px;
+    cursor: pointer;
+    //margin: 2px;
+    color: black;
+    font-size:16px; 
+    font-weight: bold;  
+}
+
+.grid-bttn-item{
+    border: 1px solid rgba(180, 177, 177, 0.8);
+    padding: 6px;
+    width: 160px;
+    margin-left: -30px;
+    background-color: #FFFFFF;
+    z-index: 1;    
+}
+.grid-btn-container{
+    display: grid;
+    padding-top: 10px;
+}
+
+.drop-tck{
+    //padding: 4px;
+    // position: absolute;
+    // height: 30px;
+    // margin-left: 180px;
+    // top: 11px;
+    // border: 1px solid #F0F0F0;
+    // border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 10px;
+    gap: 6px;
+    position: absolute;
+    width: 86px;
+    height: 34px;
+    margin-left: 175px;
+    top: 11px;
+    border: 1px solid #F0F0F0;
+    border-radius: 10px;
+}

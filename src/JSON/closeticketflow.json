@@ -1,0 +1,23 @@
+[
+    {
+        "Time":"12.00",
+        "Close Tickets": 600
+    },
+
+    {
+        "Time":"03.00",
+        "Close Tickets": 300
+    },
+    {
+        "Time":"06.00",
+        "Close Tickets": 250
+    },
+    {
+        "Time":"09.00",
+        "Close Tickets": 200
+    },
+    {
+        "Time":"12.00",
+        "Close Tickets": 20
+    }
+]

@@ -1,0 +1,121 @@
+ .agent_card{
+    position: absolute;
+    left: 100px;
+    top: 180px;
+    display: flex;
+    flex-direction: row;
+    //background: #FFFFFF;
+    //border-radius: 20px;
+    
+ }
+ .agnt-grid{
+     border-radius: 14px;
+ }
+ .card_card{
+    width: 230px;
+    height: 292px;
+    margin: 10px;
+    padding: 15px;
+   display: block;
+  
+ }
+
+ .card_path{
+    width: 100px;
+    height: 100px;
+    margin-left: 28%;
+    margin-top: 4%;
+    display: block;
+    border-radius: 8px;
+ }
+
+.card-div{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-size: 16px;
+    text-align: center;
+}
+.card-name{
+    color: #000000;
+    font-weight: 700;
+    line-height: 21px;
+}
+.card-team{
+    color: #793DDC;
+    font-weight: 500;
+    line-height: 21px;
+}
+.card-service{
+    color: #979797;
+    font-weight: 500;
+    line-height: 21px;
+}
+.card-localph{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    background: #BCBDFD;
+    border-radius: 8px;
+}
+
+.card-ph-icon{
+    position: absolute;
+    left: 18%;
+    top: 20%;
+    color: #793DDC;
+}
+
+.card-email{
+    margin: 45px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.agent-del{
+    color: #94A2BC;
+    padding-left: 80%;
+  }
+
+  .plussym-btn {
+    position: absolute;
+    left: -13.72%;
+    top: -30.95%;
+    margin: 20px;
+    background: #5051F9;
+    color:#FFF ;
+}
+
+// .card-pageNumbers{
+//     list-style: none;
+//     display: flex;
+//     margin-left: 60%;
+//     margin-top: 30%;
+// }
+
+// .card-pageNumbers li{
+//     padding: 10px;
+//     border: 1px solid #793DDC;
+//     cursor: pointer;
+//     color: #793DDC;
+// }
+
+// .card-pageNumbers li.active{
+//     background-color: #793DDC;
+//     color: #FFFFFF;
+// }
+
+// .card-pageNumbers li button{
+//     background-color: transparent;
+//     border: none;
+//     color: #793DDC ;
+//     font-size: 1rem;
+//     cursor: pointer;
+// }
+// .card-pageNumbers li button:hover{
+//     background-color: #793DDC;
+//     color: #FFFFFF;
+// }

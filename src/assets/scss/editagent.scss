@@ -1,0 +1,25 @@
+.edit-agent{
+    position: absolute;
+    width: 1111px;
+    height: 503px;
+    left: 102px;
+    top: 103px;
+    background: #FFFFFF;
+    border-radius: 14px;
+}
+
+.edit-agent-form{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;    
+    width: 780px;
+    //height: 415px;
+    padding-top: 3px;
+    margin-top: -40px;
+}
+
+.edit-agent-image{
+    position: absolute;
+    left: 285px;
+}
+

@@ -1,0 +1,170 @@
+[
+    {
+        "path" : "/boyemp.jpg",
+        "name": "Emersion Geint",
+        "selectTeam" : "Technical Team",
+        "service" : "Email service",
+        "email" : "emers.geint@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/girlemp.jpg",
+        "name": "Maren Harwitz",
+        "selectTeam" : "Technical Team",
+        "service" : "Email service",
+        "email" : "maren.harw@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Hanna Levin",
+        "selectTeam" : "Technical Team",
+        "service" : "Social service",
+        "email" : "hanna.levin@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/girlemp.jpg",
+        "name": "Zaire Dokidis",
+        "selectTeam" : "Technical Team",
+        "service" : "Chat service",
+        "email" : "zaire.dokidis@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Talan Franci",
+        "selectTeam" : "Technical Team",
+        "service" : "Email service",
+        "email" : "taran.franci@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Cristofer Dorwart",
+        "selectTeam" : "Technical Team",
+        "service" : "Contact service",
+        "email" : "crist.dorwart@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/girlemp.jpg",
+        "name": "Miracle Vaccaro",
+        "selectTeam" : "Technical Team",
+        "service" : "Chat service",
+        "email" : "miracle.vac@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/girlemp.jpg",
+        "name": "Haylie Schleifer",
+        "selectTeam" : "Technical Team",
+        "service" : "Contact service",
+        "email" : "haylie.schle@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Emersion Geint",
+        "selectTeam" : "Technical Team",
+        "service" : "Email service",
+        "email" : "emers.geint@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/girlemp.jpg",
+        "name": "Maren Harwitz",
+        "selectTeam" : "Technical Team",
+        "service" : "Social service",
+        "email" : "maren.harw@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Hanna Levin",
+        "selectTeam" : "Technical Team",
+        "service" : "Email service",
+        "email" : "hanna.levin@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Zaire Dokidis",
+        "selectTeam" : "Technical Team",
+        "service" : "Social service",
+        "email" : "zaire.dokidis@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Talan Franci",
+        "selectTeam" : "Technical Team",
+        "service" : "Email service",
+        "email" : "taran.franci@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/girlemp.jpg",
+        "name": "Cristofer Dorwart",
+        "selectTeam" : "Technical Team",
+        "service" : "Chat service",
+        "email" : "crist.dorwart@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Miracle Vaccaro",
+        "selectTeam" : "Technical Team",
+        "service" : "Social service",
+        "email" : "miracle.vac@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/girlemp.jpg",
+        "name": "Haylie Schleifer",
+        "selectTeam" : "Technical Team",
+        "service" : "Email service",
+        "email" : "haylie.schle@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Zaire Dokidis",
+        "selectTeam" : "Technical Team",
+        "service" : "Contact service",
+        "email" : "zaire.dokidis@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Talan Franci",
+        "selectTeam" : "Technical Team",
+        "service" : "Email service",
+        "email" : "taran.franci@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/girlemp.jpg",
+        "name": "Cristofer Dorwart",
+        "selectTeam" : "Technical Team",
+        "service" : "Contact service",
+        "email" : "crist.dorwart@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/boyemp.jpg",
+        "name": "Miracle Vaccaro",
+        "selectTeam" : "Technical Team",
+        "service" : "Social service",
+        "email" : "miracle.vac@gmail.com",
+        "mobile" : "+12 234 456 789"
+    },
+    {
+        "path": "/girlemp.jpg",
+        "name": "Haylie Schleifer",
+        "selectTeam" : "Technical Team",
+        "service" : "Chat service",
+        "email" : "haylie.schle@gmail.com",
+        "mobile" : "+12 234 456 789"
+    }
+]

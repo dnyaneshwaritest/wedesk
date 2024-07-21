@@ -1,0 +1,446 @@
+.box {
+    position: relative;
+    width: 100%;
+    // height: 1771px;
+    background: #F5F6FA;
+}
+
+.main-body{
+   width: 100%;
+   height: 1574px;
+   
+}
+
+.main-leftbody{
+    width: 90%;
+    height: 1171px;
+}
+
+.main-header {
+    width: 100%;
+    height: 76px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background-color:#FFFFFF
+}
+
+.logoicon {
+    position: absolute;
+    width: 21.76px;
+    height: 26.27px;
+    left: 40.24px;
+    top: 19.56px;
+
+    background: #1DA7FF;
+}
+
+.logo {
+    position: absolute;
+    width: 51px;
+    height: 16px;
+    left: 23px;
+    top: 56px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #23235F;
+}
+
+.search {
+    position: absolute;
+    left: 39.72%;
+    right: 40.14%;
+    top: 21.05%;
+    bottom: 21.05%;
+}
+
+.search-anything {
+    position: absolute;
+    left: 5.11%;
+    right: 51.04%;
+    top: 10.16%;
+    bottom: 38.16%;
+    width: 230px;
+    height: 40px;
+    border: none;
+    padding-left: 6px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    background: #F3F7FA;
+    border-radius: 7px;
+    border: none;
+    
+
+}
+
+.serch-icon{
+    position: absolute;
+    left: 87.01%;
+    right: 41.6%;
+    top: 28.84%;
+    bottom: 36.85%;
+    color: #94A2BC;
+}
+
+.bell {
+    position: absolute;
+    //left: 12.5%;
+    right: 12.5%;
+    top: 12.5%;
+    bottom: 8.33%;
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+
+ }
+
+ .sidebar {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 4.8%;
+    bottom: 0%;
+    width: 6%;
+    height: 1500px;
+
+    background: #FBFAFF;
+ }
+
+.dashboard-icon:hover{
+    background: #1DA7FF;
+    color: #fff;
+    // width: 50px;
+    // height: 80px;
+    // border-radius: 10px;
+ }
+
+.dashboard-icon {
+    position: absolute;
+    left: 24.47%;
+    right: 27.66%;
+    top: 16.37%;
+    bottom: 81.08%;
+
+    //background: #FBFAFF;
+    box-shadow: 0px 8px 14px rgba(248, 249, 252, 0.12);
+    border-radius: 14px;    
+}
+.dash-icon {
+    left: 38.3%;
+    right: 52.13%;
+    top: 17.05%;
+    bottom: 82.44%;
+    margin: 25%;
+    
+    //background: #FFFFFF;
+ 
+}
+.dashboard {
+    position: absolute;
+    left: 22.34%;
+    right: 21.28%;
+    top: 19.48%;
+    bottom: 79.79%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.ticket-icon {
+    position: absolute;
+    left: 26.6%;
+    right: 25.53%;
+    top: 21.23%;
+    bottom: 76.23%;
+
+    border-radius: 14px;
+}
+
+.ticket-icon:active, .ticket-icon:hover{
+    color: #fff;
+    background: #1DA7FF;
+   
+ }
+
+
+.ticket {
+    position: absolute;
+    left: 10.36%;
+    right: 39.36%;
+    top: 21.91%;
+    bottom: 76.96%;
+
+   // border: 2px solid #5F6388;
+}
+
+.ticket-text {
+    position: absolute;
+    left: 21.91%;
+    right: 29.79%;
+    top: 23.17%;
+    bottom: 75.1%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.agent-icon {
+    position: absolute;
+    left: 26.6%;
+    right: 25.53%;
+    top: 24.75%;
+    bottom: 71.71%;
+
+    border-radius: 14px;
+}
+
+.agent {
+    position: absolute;
+    left: 10.36%;
+    right: 38.3%;
+    top: 26.48%;
+    bottom: 72.49%;
+
+    //background: #5F6388;
+}
+
+.agent-text {
+    position: absolute;
+    left: 21.91%;
+    right: 30.85%;
+    top: 27%;
+    bottom: 70.41%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+
+}
+
+.teamview-icon {
+    position: absolute;
+    left: 16.53%;
+    right: 26.6%;
+    top: 29.43%;
+    bottom: 67.02%;
+
+    border-radius: 14px;
+}
+
+.teamview {
+    position: absolute;
+    left: 20.36%;
+    right: 39.36%;
+    top: 1.11%;
+    bottom: 67.76%;
+
+    //background: #5F6388;
+}
+
+.teamview-text {
+    position: absolute;
+    left: 21.91%;
+    right: 22.34%;
+    top: 31.21%;
+    bottom: 65.73%;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+
+}
+
+.customer-icon {
+    position: absolute;
+    left: 10.36%;
+    right: 25.53%;
+    top: 31.35%;
+    bottom: 62.34%;
+
+    border-radius: 14px;
+}
+
+.customer {
+    position: absolute;
+    left: 40.43%;
+    right: 38.3%;
+    top: 35.8%;
+    bottom: 63.07%;
+}
+
+.customer-text {
+    position: absolute;
+    left: 21.91%;
+    right: 23.4%;
+    top: 35.23%;
+    bottom: 61.04%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+
+}
+
+.social-icon {
+    position: absolute;
+    left: 26.6%;
+    right: 25.53%;
+    top: 37.81%;
+    bottom: 56.35%;
+}
+ .social {
+    position: absolute;
+    left: 10.36%;
+    right: 47.42%;
+    top: 11.33%;
+    bottom: 58.55%;
+
+    
+ }
+
+ .social-text {
+    position: absolute;
+    left: 21.91%;
+    right: 34.04%;
+    top: 40.25%;
+    bottom: 56.35%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+
+ }
+
+ .chat-icon {
+    position: absolute;
+    left: 26.6%;
+    right: 25.53%;
+    top: 44.49%;
+    bottom: 52.96%;
+ }
+
+ .chat {
+    position: absolute;
+    left: 23.36%;
+    right: 38.38%;
+    top: 43.17%;
+    bottom: 53.7%;
+ }
+
+ .chat-text {
+    position: absolute;
+    left: 21.91%;
+    right: 36.17%;
+    top: 44.96%;
+    bottom: 51.67%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+ }
+
+ .setting-icon {
+    position: absolute;
+    left: 26.6%;
+    right: 25.53%;
+    top: 46.18%;
+    bottom: 48.28%;
+
+    border-radius: 14px;
+ }
+
+ .setting {
+    position: absolute;
+    left: 10.36%;
+    right: 38.3%;
+    top: 32.86%;
+    bottom: 49.01%;
+ }
+
+ .setting-text {
+    position: absolute;
+    left: 21.91%;
+    right: 29.79%;
+    top: 50%;
+    bottom: 46.98%;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+ }
+
+.active{
+    color: #5051F9;
+}

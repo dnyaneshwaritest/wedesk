@@ -1,0 +1,63 @@
+[
+    {
+        "Time":"11am",
+        "New Tickets": 120,
+        "Close Tickets": 10
+    },
+
+    {
+        "Time":"12pm",
+        "New Tickets": 190,
+        "Close Tickets": 170
+    },
+    {
+        "Time":"1pm",
+        "New Tickets": 150,
+        "Close Tickets": 310
+    },
+    {
+        "Time":"2pm",
+        "New Tickets": 300,
+        "Close Tickets": 410
+    },
+    {
+        "Time":"3pm",
+        "New Tickets": 240,
+        "Close Tickets": 280
+    },
+    {
+        "Time":"4pm",
+        "New Tickets": 200,
+        "Close Tickets": 300
+    },
+    {
+        "Time":"5pm",
+        "New Tickets": 200,
+        "Close Tickets": 100
+    },
+    {
+        "Time":"6pm",
+        "New Tickets": 180,
+        "Close Tickets": 120
+    },
+    {
+        "Time":"7pm",
+        "New Tickets": 280,
+        "Close Tickets": 100
+    },
+    {
+        "Time":"8pm",
+        "New Tickets": 300,
+        "Close Tickets": 150
+    },
+    {
+        "Time":"9pm",
+        "New Tickets": 240,
+        "Close Tickets": 250
+    },
+    {
+        "Time":"10pm",
+        "New Tickets": 120,
+        "Close Tickets": 160
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "name":"Close Ticket",
+        "value":27
+    },
+    {
+        "name":"Active Ticket",
+        "value":103
+    },
+   
+    {
+        "name":"Assigned Ticket",
+        "value":22
+    }
+]

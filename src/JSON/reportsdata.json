@@ -1,0 +1,75 @@
+[
+    {
+        "Month":"Jan",
+        "New": 120,
+        "Closed": 80,
+        "Pending": 50
+    },
+
+    {
+        "Month":"Feb",
+        "New": 190,
+        "Closed": 170,
+        "Pending": 400
+    },
+    {
+        "Month":"Mar",
+        "New": 150,
+        "Closed": 310,
+        "Pending": 130
+    },
+    {
+        "Month":"Apr",
+        "New": 300,
+        "Closed": 410,
+        "Pending": 234
+    },
+    {
+        "Month":"May",
+        "New": 240,
+        "Closed": 280,
+        "Pending": 350
+    },
+    {
+        "Month":"Jun",
+        "New": 200,
+        "Closed": 300,
+        "Pending":100
+    },
+    {
+        "Month":"Jul",
+        "New": 200,
+        "Closed": 100,
+        "Pending":432
+    },
+    {
+        "Month":"Aug",
+        "New": 180,
+        "Closed": 120,
+        "Pending":450
+    },
+    {
+        "Month":"Sep",
+        "New": 280,
+        "Closed": 100,
+        "Pending":120
+    },
+    {
+        "Month":"Oct",
+        "New": 300,
+        "Closed": 150,
+        "Pending": 400
+    },
+    {
+        "Month":"Nov",
+        "New": 240,
+        "Closed": 250,
+        "Pending": 100
+    },
+    {
+        "Month":"Dec",
+        "New": 120,
+        "Closed": 160,
+        "Pending":300
+    }
+]

@@ -1,0 +1,96 @@
+.tckt-form{
+    position: relative;
+    width: 738px;
+    height: 560px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    left: 23%;
+    margin-top: 20px;
+}
+
+.nwtck-frm{
+    position: absolute;
+    width: 134px;
+    height: 33px;
+    left: 20px;
+    top: -6%;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 33px;
+    color: #5051F9;
+}
+
+.cls-frm{
+    position: absolute;
+    left: 94.38%;
+    right: 2.37%;
+    top: 2.57%;
+    bottom: 92.64%;
+    background: #FF3B5F;
+    color: #FFFFFF;
+    border-radius: 30px;
+    width: 20px;
+    height: 20px;
+    border: none;
+    padding: 2px;
+    padding-top: 3px;
+    cursor: pointer;
+}
+
+.sub-div{
+    position: absolute;
+    //width: 91px;
+    height: 33px;
+    left: 20px;
+    top: 46px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 33px;
+    color: #545454;
+
+}
+
+.sub-label{
+    position: absolute;
+    width: 675px;
+    height: 50px;
+    left: 1px;
+    top: 1px;
+    background: #F3F7FA;
+    border-radius: 14px;
+    font-size: 12px;
+    border: none;
+    margin-bottom: 20px;
+    padding: 15px; 
+    
+}
+
+.adminlabel{
+    position: absolute;
+    width: 294px;
+    height: 50px;
+    left: -55px;
+    top: 41px;
+    margin-bottom: 65px;
+    padding: 15px;
+    background: #F3F7FA;
+    border-radius: 14px;
+    
+    }
+
+.frm-btn{
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 302px;
+    top: 479px;
+    
+//     background: #5051F9;
+//     border-radius: 6px;
+//     color: #FFFFFF;
+ }
